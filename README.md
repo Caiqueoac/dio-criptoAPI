@@ -1,5 +1,7 @@
 # dio-criptoAPI
 
+HTML - CSS - JAVASCRIPT - BOOTSTRAP - API 
+
 
 ## Desafio
 
