@@ -13,7 +13,7 @@ Além disso, **Matheus Andrade** (https://github.com/matheusdrade), que também 
 
 
 
-![image-20210415183253493](C:\Users\Caique\AppData\Roaming\Typora\typora-user-images\image-20210415183253493.png)
+<img src="/img/DIO.png"/>
 
 
 
@@ -21,11 +21,15 @@ Além disso, **Matheus Andrade** (https://github.com/matheusdrade), que também 
 
   
 
-![image-20210415185249399](C:\Users\Caique\AppData\Roaming\Typora\typora-user-images\image-20210415185249399.png)
+<img src="/img/tela1.png"/>
 
 
 
-![image-20210415185645791](C:\Users\Caique\AppData\Roaming\Typora\typora-user-images\image-20210415185645791.png)
+
+
+<img src="/img/tela2.png"/>
+
+
 
 
 
