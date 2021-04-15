@@ -1,0 +1,39 @@
+
+body{
+    
+    background-color: rgb(37, 33, 33);
+}
+
+
+h1{
+
+    text-align: center;
+    color: rgb(192, 204, 19);
+}
+
+#coins h1 {
+
+    text-align: right;
+}
+
+
+.botoes{
+
+    display: flex;
+    justify-content: space-around;
+
+    margin: 50px auto;
+}
+
+
+
+
+
+table thead{
+
+    font-size: 25px;
+    color: rgb(192, 204, 19);
+
+}
+
+
