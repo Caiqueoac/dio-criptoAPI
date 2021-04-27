@@ -51,7 +51,7 @@ Além disso, **Matheus Andrade** (https://github.com/matheusdrade), que também 
 
 Incluir botões que acionem a apresentação de mais rankings com o intuito de explorar mais a documentação da API.
 
-Entre em contato caso queira fazer o desafio/ tenho feito.
+Entre em contato caso queira fazer o desafio/ tenha feito.
 
 
 
