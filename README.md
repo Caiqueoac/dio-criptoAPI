@@ -1,4 +1,4 @@
-# dio-criptoAPI
+# dio-criptoApi
 
 HTML - CSS - JAVASCRIPT - BOOTSTRAP - API 
 
